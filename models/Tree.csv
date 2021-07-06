@@ -1,0 +1,403 @@
+id,scientific name,english name,hindi name,family,tree_class
+1,Acacia farnesiana,Mimosa bush,Guh babool,Leguminosae,Wild tree
+2,Acacia horrida,Robber Thorn,NA,Leguminosae,Wild tree
+3,Acacia melanoxylon,Australian Blackwood,NA,Leguminosae,Ornamental tree
+4,Acacia nilotica,Gum Arabic,Babool,Leguminosae,Wild tree
+5,Acacia planifrons,Umbrella thorn,NA,Leguminosae,Wild tree
+6,Acacia polyacantha,White Thorn,NA,Leguminosae,Wild tree
+7,Acacia auriculiformis,Earleaf Acacia,Austrailian Babhul,Leguminosae,Avenue tree
+8,Acacia catechu,Catechu,Dantadhavan,Leguminosae,Medicinal tree
+9,Acacia ferruginea,Rusty Acacia,Safed khair,Leguminosae,Medicinal tree
+10,Acacia leucophloea,White Bark Acacia,Safed kikkar,Leguminosae,Wild tree
+11,Acacia mangium,Black Wattle,Sabah salwood,Leguminosae,Avenue tree
+13,Acacia senegal,Gum Acacia,Kumttha,Leguminosae,Medicinal tree
+14,Acrocarpus fraxinifolius,Pink Cedar,Mandhani,Leguminosae,Avenue tree
+15,Adansonia digitata,Baobab,Gorakh imli,Malvaceae,Ornamental tree
+16,Adenanthera pavonina,Red bead tree,Ratangunj,Leguminosae,Avenue tree
+17,Aegle marmelos,Wood apple,Maredu,Rutaceae,Fruiting tree
+18,Aesculus assamica,East Himalayan Horse Chestnut,NA,Sapindaceae,Ornamental tree
+19,Afrocarpus gracilior,Fern Pine,Fern Pine,Podocarpaceae,Ornamental tree
+20,Agathis robusta,Kauri Pine,NA,Araucariaceae,Ornamental tree
+21,Ailanthus triphysa,NA,NA,Simaroubaceae,Avenue tree
+22,Ailanthus excelsa,Indian Tree of Heaven,Mahrukh,Simaroubaceae,Wild tree
+23,Alangium salviifolium,Sage Leaved Alangium,Ankol,Cornaceae,Avenue tree
+24,Albizia lucidior,Potka Siris,Potka Siris,Leguminosae,Avenue tree
+25,Albizia chinensis,Chinese Albizia,Kala Siris,Leguminosae,Ornamental tree
+26,Albizia lebbeck,Siris Tree,Saras,Leguminosae,Avenue tree
+27,Albizia procera,White siris,Safed siris,Leguminosae,Avenue tree
+28,Albizia richardiana,NA,NA,Leguminosae,Ornamental tree
+29,Albizia saman,Rain tree,Gulabi Siris,Leguminosae,Avenue tree
+30,Alstonia macrophylla,Batino,NA,Apocynaceae,Avenue tree
+31,Alstonia scholaris,Scholars Tree,Satvin,Apocynaceae,Avenue tree
+32,Amherstia nobilis,Pride of Burma,NA,Leguminosae,Ornamental tree
+33,Anacardium occidentale,Cashew,Kaju,Anacardiaceae,Fruiting tree
+34,Annona glabra,Pond apple,Kattatha,Annonaceae,Medicinal tree
+35,Annona muricata,Soursop,Mamphal,Annonaceae,Fruiting tree
+36,Annona reticulata,Netted Custard Apple,Ramphal,Annonaceae,Fruiting tree
+37,Annona squamosa,Custard apple,Sitaphal,Annonaceae,Fruiting tree
+38,Anogeissus acuminata,Buttontree,Dhaura,Combretaceae,Wild tree
+39,Anogeissus sericea,Roundleaf Axlewood,Indrarunkh,Combretaceae,Wild tree
+40,Anogeissus latifolia,Axle Wood Tree,Dhavda,Combretaceae,Wild tree
+41,Aphanamixis polystachya,Rohituka Tree,Harinkhana,Meliaceae,Avenue tree
+42,Araucaria bidwillii,Bunya Pine,NA,Araucariaceae,Ornamental tree
+43,Araucaria columnaris,Christmas Tree,NA,Araucariaceae,Ornamental tree
+44,Araucaria cunninghamii,Hoop Pine,NA,Araucariaceae,Ornamental tree
+45,Araucaria hunsteinii,Klinki Pine,NA,Araucariaceae,Ornamental tree
+46,Areca catechu,Betel Palm,Supari,Arecaceae,Palms
+47,Arenga wightii,Wight's Sago Palm,NA,Arecaceae,Palms
+48,Artocarpus heterophyllus,Jackfruit tree,Katahal,Moraceae,Fruiting tree
+49,Artocarpus lacucha,Monkey Jack,Lakooch,Moraceae,Fruiting tree
+50,Artocarpus incisus,Breadfruit,Bakir chajhar,Moraceae,Fruiting tree
+51,Atalantia racemosa,Bombay Atalantia,NA,Rutaceae,Wild tree
+52,Averrhoa bilimbi,Cucumber tree,Bilimbi,Oxalidaceae,Fruiting tree
+53,Averrhoa carambola,Star fruit,Karmal,Oxalidaceae,Fruiting tree
+56,Azadirachta indica,Neem,Neem,Meliaceae,Medicinal tree
+57,Balanites aegyptiaca,Desert Date,Hingam,Zygophyllaceae,Medicinal tree
+58,Barringtonia acutangula,Indian Putat,Hijagal,Lecythidaceae,Avenue tree
+59,Barringtonia asiatica,Sea Poison Tree,Samudraphal,Lecythidaceae,Avenue tree
+60,Barringtonia racemosa,Powderpuff Mangrove,Norvisnee,Lecythidaceae,Avenue tree
+61,Bauhinia blakeana,Hong Kong Orchid Tree,Kanchan raj,Leguminosae,Ornamental tree
+62,Bauhinia hookeri,Mountain Ebony,NA,Leguminosae,Ornamental tree
+63,Bauhinia monandra,Orchid Tree,NA,Leguminosae,Ornamental tree
+64,Bauhinia purpurea,Purple Orchid Tree,Kachnar,Leguminosae,Ornamental tree
+65,Bauhinia roxburghiana,Roxburgh's Bauhinia,Karial,Leguminosae,Ornamental tree
+66,Bauhinia tomentosa,Yellow Orchid Tree,Chota Kachnar,Leguminosae,Ornamental tree
+67,Bauhinia racemosa,Bidi Leaf Tree,Katmauli,Leguminosae,Medicinal tree
+68,Bauhinia variegata,Varigated Bauhinia,Kanaraj,Leguminosae,Ornamental tree
+69,Beaucarnea recurvata,Elephant's foot palm,NA,Asparagaceae,Ornamental tree
+70,Berrya cordifolia,Trincomalee Wood,NA,Tiliaceae,Ornamental tree
+71,Bixa orellana,Lipstick tree,Latkan,Bixaceae,Medicinal tree
+72,Bombax ceiba,Silk Cotton Tree,Shalmali,Malvaceae,Avenue tree
+73,Bombax insigne,Showy Silk Cotton Tree,Shalmali,Malvaceae,Avenue tree
+74,Borassus flabellifer,Toddy palm,Taad,Arecaceae,Palms
+75,Boswellia serrata,Indian Olibanum,Shallaki,Burseraceae,Wild tree
+76,Bridelia retusa,Spinous Kino Tree,Khaja,Phyllanthaceae,Wild tree
+77,Broussonetia papyrifera,Paper Mulberry,Jungli Toot,Moraceae,Avenue tree
+78,Brownea coccinea,Scarlet Flame Bean,NA,Caesalpiniaceae,Ornamental tree
+80,Buchanania cochinchinensis,Chironji Tree,Char,Anacardiaceae,Medicinal tree
+81,Bursera penicillata,Tree of fragrance,NA,Burseraceae,Ornamental tree
+82,Butea monosperma var. lutea,Yellow Flame of the Forest,Pila Palash,Leguminosae,Wild tree
+83,Butea monosperma,Flame of the Forest,Palash,Leguminosae,Wild tree
+84,Caesalpinia coriaria,Divi Divi,,Leguminosae,Avenue tree
+85,Caesalpinia pulcherrima,Peacock Flower,Guletura,Leguminosae,Ornamental tree
+86,Calamus rotang,Common rattan,Rattan,Arecaceae,Palms
+87,Calliandra haematocephala,Red Powder Puff,NA,Leguminosae,Ornamental tree
+88,Callistemon lanceolatus,Bottle brush,Cheel,Myrtaceae,Ornamental tree
+89,Callistemon salignus,White bottle brush,NA,Myrtaceae,Ornamental tree
+90,Callistemon viminalis,Weeping bottle brush,Cheel,Myrtaceae,Ornamental tree
+91,Calophyllum inophyllum,Beauty Leaf,Sultan champa,Clusiaceae,Medicinal tree
+92,Cananga odorata,Ylang Ylang,NA,Annonaceae,Ornamental tree
+93,Canarium strictum,Black dhup,Dhoop,Burseraceae,Ornamental tree
+94,Canarium vulgare,Java Almond,NA,Burseraceae,Ornamental tree
+95,Canthium dicoccos,Ceylon Boxwood,Tupa,Rubiaceae,Ornamental tree
+96,Capparis divaricata,Spreading Caper,Pachunda,Capparaceae,Avenue tree
+97,Capparis grandis,Tree Caper,Pachunda,Capparaceae,Avenue tree
+98,Carallia brachiata,Freshwater mangrove,NA,Rhizophoraceae,Mangrove
+99,Careya arborea,Wild Guava,Kumbhi,Lecythidaceae,Wild tree
+100,Caryota urens,Fishtail Palm,Mari,Arecaceae,Palms
+101,Cascabela thevetia,Yellow Oleander,Peeli kaner,Apocynaceae,Ornamental tree
+102,Casearia graveolens,Chilla,Bhokoda,Salicaceae,Wild tree
+103,Casearia tomentosa,Toothed Leaf Chilla,Chilla,Salicaceae,Wild tree
+104,Cassia abbreviata,Long-tail cassia,NA,Leguminosae,Ornamental tree
+105,Cassia javanica,Java's Cassia,NA,Leguminosae,Avenue tree
+106,Cassia renigera,Burmese Pink Cassia,NA,Leguminosae,Avenue tree
+107,Cassia fistula,Golden shower tree,Amaltas,Leguminosae,Avenue tree
+108,Cassia grandis,Coral Shower Tree,NA,Leguminosae,Avenue tree
+109,Cassia roxburghii,Red Cassia,NA,Verbenaceae,Avenue tree
+110,Cassine glauca,Ceylon Tea,Jamrasi,Celastraceae,Wild tree
+111,Cassine orientalis,False Olive,NA,Celastraceae,Ornamental tree
+112,Castanospermum australe,Australian Chestnut,NA,Leguminosae,Avenue tree
+113,Casuarina equisetifolia,Whistling Pine,Sura,Casuarinaceae,Avenue tree
+114,Catunaregam spinosa,Mountain pomegranate,Maniphal,Rubiaceae,Medicinal tree
+115,Ceiba speciosa,Silk Floss Tree,Resham rui,Malvaceae,Ornamental tree
+116,Ceiba pentandra,White Silk-Cotton Tree,Safed semal,Malvaceae,Avenue tree
+117,Cerbera manghas,Sea Mango,NA,Apocynaceae,Avenue tree
+118,Chloroxylon swietenia,Ceylon Satinwood,Behru,Rutaceae,Medicinal tree
+119,Chrysophyllum oliviforme,Satinleaf,NA,Sapotaceae,Fruiting tree
+120,Chrysophyllum cainito,Star Apple,NA,Sapotaceae,Fruiting tree
+121,Chukrasia tabularis,Indian Redwood,Chikrasi,Meliaceae,Wild tree
+122,Cinnamomum camphora,Camphor,kapur,Lauraceae,Medicinal tree
+123,Cinnamomum verum,Cinnamon,Dalchini,Lauraceae,Medicinal tree
+124,Cinnamomum tamala,Indian Bay Leaf,Tejpatta,Lauraceae,Medicinal tree
+125,Citharexylum spinosum,Fiddlewoof,,Verbenaceae,Ornamental tree
+126,Citrus aurantiifolia,Sour lime,Kagji nimbu,Rutaceae,Fruiting tree
+127,Citrus aurantium,Lime,Nimbu,Rutaceae,Fruiting tree
+128,Citrus maxima,Pomelo,Paparmas,Rutaceae,Fruiting tree
+129,Citrus limon,Lemon,Nimbu,Rutaceae,Fruiting tree
+130,Citrus medica,Citron,Galgal,Rutaceae,Fruiting tree
+131,Citrus sinensis,Sweet orange,Santra,Rutaceae,Fruiting tree
+132,Clitoria fairchildiana,Pegion wing,NA,Fabaceae,Ornamental tree
+133,Clusia rosea,Autograph tree,NA,Clusiaceae,Ornamental tree
+134,Cochlospermum religiosum,Buttercup tree,Galgal,Bixaceae,Ornamental tree
+135,Cocos nucifera,Coconut,Nariyal,Arecaceae,Palms
+136,Colvellia racemosa,Colville's glory,Kilbil,Leguminosae,Avenue tree
+137,Cordia dichotoma,Indian cherry,Lasora,Boraginaceae,Wild tree
+138,Cordia subcordata,Beach cordia,NA,Boraginaceae,Ornamental tree
+139,Cordia myxa,Assyrian Plum,Lasoda,Boraginaceae,Medicinal tree
+140,Cordia sebestena,Scarlet cordia,Laal lasora,Ehretiaceae,Ornamental tree
+141,Cordia sinensis,Grey-leaved Saucer berry,Gondani,Boraginaceae,Medicinal tree
+142,Couroupita guianensis,Cannon ball tree,Shivalingam,Lecythidaceae,Ornamental tree
+143,Crateva tapia,Tapia,Varuna,Capparaceae,Ornamental tree
+144,Crateva nurvala,Garlic pear tree,Barna,Capparaceae,Ornamental tree
+145,Crescentia cujute,Calabash tree,NA,Bignoniaceae,Fruiting tree
+146,Crescentia alata,Mexican Calabash tree,Kamandal,Bignoniaceae,Fruiting tree
+147,Cupressus sempervirens,Italian Cupressus,NA,Cupressaceae,Ornamental tree
+149,Cupressus torulosa,Himalayan Cypress,NA,Cupressaceae,Ornamental tree
+150,Cycas circinalis,Queen sago,NA,Cycadaceae,Ornamental tree
+151,Cycas revoluta,Sago palm,NA,Cycadaceae,Ornamental tree
+152,Dalbergia melanoxylon,African Blackwood,Patangi,Leguminosae,Ornamental tree
+153,Dalbergia sissoo,Indian Rosewood,Shisham,Leguminosae,Avenue tree
+154,Dalbergia lanceolaria,NA,Takoli,Leguminosae,Ornamental tree
+155,Dalbergia lanceolaria subsp. paniculata,Takoli,Passi,Leguminosae,Ornamental tree
+156,Dalbergia latifolia,Black Rosewood,Kala shisham,Leguminosae,Ornamental tree
+157,Delonix elata,White gulmohar,Waykaram,Leguminosae,Avenue tree
+158,Delonix regia,Flame Tree,Gulmohar,Leguminosae,Avenue tree
+159,Desmodium oojeinense,Sandan,Tinnas,Leguminosae,Medicinal tree
+160,Dichrostachys cinerea,Sickle bush,Kunali,Leguminosae,Wild tree
+161,Dillenia pentagyna,Dog Teak,Karmal,Dilleniaceae,Avenue tree
+162,Dillenia indica,Elephant Apple,Chalta,Dilleniaceae,Avenue tree
+163,Diospyros melanoxylon,Coromandel Ebony,Abnus,Ebenaceae,Avenue tree
+164,Diospyros malabarica,Indian persimmon,Gaab,Ebenaceae,Avenue tree
+165,Dipterocarpus retusus,Rusty Leaf Garjan,NA,Dipterocarpaceae,Wild tree
+166,Dolichandrone falcata,Medhshingi,Hawar,Bignoniaceae,Wild tree
+167,Dombeya acutangula,Dombeya,NA,Malvaceae,Ornamental tree
+168,Dombeya spectabilis,Maple Leaved Dombeya,NA,Malvaceae,Ornamental tree
+169,Dombeya wallichii,Pink Ball,NA,Malvaceae,Ornamental tree
+170,Dypsis lutescens,Golden cane palm,NA,Arecaceae,Palms
+171,Ehretia laevis,Chamror,Charmor,Ehretiaceae,Wild tree
+172,Elaeis guineensis,African Oil Palm,NA,Arecaceae,Palms
+173,Elaeocarpus serratus,Ceylon Olive,Rudraksh,Elaeocarpaceae,Flowering tree
+174,Erythrina crista-galli,Cockspur coral tree,NA,Leguminosae,Flowering tree
+175,Erythrina suberosa,Indian Coral Tree,Dhaul dhak,Leguminosae,Wild tree
+176,Erythrina variegata,Indian Coral Tree,Pangara,Leguminosae,Avenue tree
+177,Eucalyptus microtheca,Coolabah,NA,Myrtaceae,Ornamental tree
+178,Eucalyptus globulus,Blue gum tree,Neelagiri,Myrtaceae,Ornamental tree
+179,Eucalyptus tereticornis,Forest Red Gum,Neelagiri,Myrtaceae,Ornamental tree
+180,Euphorbia lactea,Candelabra plant,NA,Euphorbiaceae,Wild tree
+181,Euphorbia tirucalli,Indian Tree Spurge,Anglithor,Euphorbiaceae,Wild tree
+182,Excoecaria agallocha,Milky mangrove,Gangiva,Euphorbiaceae,Ornamental tree
+183,Ficus benghalensis var. krishnae,Krishna Fig,Makhan Katori,Moraceae,Ornamental tree
+184,Ficus lacor,Java fig,Pakar,Moraceae,Ornamental tree
+185,Ficus longifolia,Narrow-leaf Fig,NA,Moraceae,Ornamental tree
+186,Ficus lyrata,Fiddle-leaf Fig,NA,Moraceae,Avenue tree
+187,Ficus talbotii,Talbot Fig,NA,Moraceae,Wild tree
+188,Ficus virens,White Fig,Pilkhan,Moraceae,Avenue tree
+189,Ficus amplissima,Bat Tree,Pipari,Moraceae,Avenue tree
+190,Ficus arnottiana,Indian Rock Fig,Paras pipal,Moraceae,Avenue tree
+191,Ficus aspera,Clown Fig,NA,Moraceae,Ornamental tree
+192,Ficus benghalensis,Banyan tree,Bargad,Moraceae,Avenue tree
+193,Ficus benjamina,Weeping Fig,Pukar,Moraceae,Ornamental tree
+194,Ficus carica,Common Fig,Anjeer,Moraceae,Fruiting tree
+195,Ficus drupacea,Mysore Fig,NA,Moraceae,Ornamental tree
+196,Ficus elastica,Indian Rubber Tree,NA,Moraceae,Avenue tree
+197,Ficus exasperata,Sandpaper Tree,Karapatra,Moraceae,Ornamental tree
+198,Ficus hispida,Hairy Fig,Gobla,Moraceae,Ornamental tree
+199,Ficus microcarpa,Chinese Banyan,Kamarup,Moraceae,Avenue tree
+200,Ficus natalensis,Triangle leaf ficus,NA,Moraceae,Ornamental tree
+201,Ficus palmata,Punjab Fig,Anjiri,Moraceae,Ornamental tree
+202,Ficus racemosa,Cluster fig,Goolar,Moraceae,Fruiting tree
+203,Ficus religiosa,sacred fig tree,pipal,Moraceae,Avenue tree
+204,Ficus rumphii,Mock bodh Tree, Ashta,Pilkhan,Moraceae
+205,Ficus tinctoria subsp. gibbosa,Dye Fig,NA,Moraceae,Ornamental tree
+206,Filicium decipiens,Fern tree,Katu,Sapindaceae,Ornamental tree
+207,Firmiana colorata,Scarlet Sterculia,Kaushi,Malvaceae,Wild tree
+208,Firmiana simplex,Ghost Tree,Kulu,Malvaceae,Wild tree
+209,Flacourtia indica,Governor's Plum,Bilangada,Salicaceae,Wild tree
+210,Flacourtia jangomas,Indian plum,Champeran,Flacourtiaceae,Wild tree
+211,Garcinia gummi-gutta,Cambodge tree,kudam puli,Clusiaceae,Medicinal tree
+212,Garcinia indica,Kokam butter tree,kokum,Clusiaceae,Fruiting tree
+213,Garcinia livingstonei,African mangosteen,NA,Clusiaceae,Ornamental tree
+214,Gardenia latifolia,Indian Boxwood,paphar,Rubiaceae,Avenue tree
+215,Gardenia resinifera,Brilliant Gardenia,dekamali,Rubiaceae,Ornamental tree
+216,Garuga pinnata,Garuga,kharpat,Burseraceae,Medicinal tree
+217,Givotia moluccana,White Catamaran tree,Pankhi,Euphorbiaceae,Wild tree
+218,Gliricidia sepium,Mother of cocoa,NA,Fabaceae,Avenue tree
+219,Glochidion ellipticum,Bhoma,Bhoma,Phyllanthaceae,Wild tree
+220,Gmelina arborea,White Teak,Gamhar,Lamiaceae,Avenue tree
+221,Grevillea robusta,Silver oak,Khajur,Proteaceae,Avenue tree
+222,Grewia flavescens,Sandpaper Raisin,NA,Tiliaceae,Wild tree
+223,Grewia asiatica,Phalsa,Phalsa,Malvaceae,Avenue tree
+224,Grewia nervosa,Microcos,Shiral,Tiliaceae,Ornamental tree
+225,Grewia tiliifolia,Dhaman,Dhamani,Malvaceae,Ornamental tree
+226,Guaiacum officinale,Tree of Life,NA,Zygophyllaceae,Medicinal tree
+227,Guazuma ulmifolia,West indiam elm,Rudrakshi,Malvaceae,Ornamental tree
+228,Gustavia augusta,Majestic heaven lotus,NA,Lecythidaceae,Ornamental tree
+229,Haematoxylon campechianum,Campeachy Wood,NA,Leguminosae,Medicinal tree
+230,Haldina cordifolia,Haldu,Karam,Rubiaceae,Avenue tree
+231,Hardwickia binata,Anjani,Anjani,Leguminosae,Avenue tree
+233,Heterophragma quadriloculare,Waras,NA,Bignoniaceae,Avenue tree
+234,Hevea brasiliensis,Rubber Tree,NA,Euphorbiaceae,Ornamental tree
+235,Hibiscus tilliaceus,Sea hibiscus,Bola,Malvaceae,Ornamental tree
+236,Holarrhena pubescens,Indrajao,Karva indrajau,Apocynaceae,Medicinal tree
+238,Holoptelea integrifolia,Indian Elm,Kanju,Ulmaceae,Avenue tree
+239,Hura crepitans,Sandbox Tree,Huru,Euphorbiaceae,Ornamental tree
+240,Hydnocarpus pentandrus,Jangli Almond,Jangli badam,Flacourtiaceae,Medicinal tree
+241,Hyphaene thebaica,Donum palm,NA,Arecaceae,Palms
+242,Ixora parviflora,Small flowered Ixora,NA,Rubiaceae,Ornamental tree
+243,Jacaranda mimosifolia,Blue Jacarand,Neeli gulmohur,Bignoniaceae,Medicinal tree
+244,Jatropha curcas,Physic Nut,Jamal ghota,Euphorbiaceae,Medicinal tree
+245,Khaya anthotheca,East African Mahogany,NA,Meliaceae,Avenue tree
+246,Khaya grandifoliola,Senegal Mahogany,NA,Meliaceae,Avenue tree
+247,Khaya senegalensis,African Mahogany,NA,Meliaceae,Avenue tree
+248,Kigelia africana,Sausage Tree,Balam khira,Bignoniaceae,Avenue tree
+249,Kleinhovia hospita,Guest Tree,Bhola,Malvaceae,Avenue tree
+250,Koelreuteria bipinnata,Chinese Flame Tree,NA,Sapindaceae,Ornamental tree
+251,Kydia calycina,Kydia,Ranbhendi,Malvaceae,Ornamental tree
+252,Lafoensia vandelliana,NA,NA,Lythraceae,Ornamental tree
+253,Lagerstroemia indica,Common Crape Myrtle,Sawani,Lythraceae,Avenue tree
+254,Lagerstroemia lanceolata,Nandi Tree,Taman,Lythraceae,Avenue tree
+255,Lagerstroemia microcarpa,Ben Teak,NA,Lythraceae,Avenue tree
+256,Lagerstroemia speciosa,Queen Crape Myrtle,Taman,Lythraceae,Ornamental tree
+257,Lagerstroemia thorelli,Crepe Myrtle,NA,Lythraceae,Ornamental tree
+258,Lagerstroemia parviflora,Small Flowered Crape Myrtle,Dhaura,Lythraceae,Avenue tree
+259,Lannea coromandelica,Indian Ash Tree,Mohin,Anacardiaceae,Wild tree
+260,Leucaena leucocephala,Wild tamarind,Safed babool,Leguminosae,Ornamental tree
+261,Licuala grandis,Ruffled Fan Palm,NA,Arecaceae,Avenue tree
+262,Limonia acidissima,Wood Apple,Kaith,Rutaceae,Fruiting tree
+263,Litchi chinensis,Litchi,Lichi,Sapindaceae,Fruiting tree
+264,Litsea deccanensis,Deccan Tallow Laurel,Chikna,Lauraceae,Wild tree
+265,Livistona chinensis,Chinese Fan Palm,NA,Arecaceae,Palms
+266,Luehea candida,NA,NA,Malvaceae,Ornamental tree
+268,Macaranga peltata,Chandada,Chand Kal,Euphorbiaceae,Wild tree
+269,Madhuca longifolia,Indian Butter Tree,Mahua,Sapotaceae,Fruiting tree
+270,Maesopsis eminii,Umbrella Tree,NA,Rhamnaceae,Wild tree
+271,Magnolia champaca,Champa,Champa,Magnoliaceae,Flowering tree
+272,Magnolia grandiflora,Magnolia,Him champa,Magnoliaceae,Flowering tree
+273,Magnolia liliifera,Egg magnolia,Him champa,Magnoliaceae,Flowering tree
+274,Mallotus nudiflorus,False White Teak,Pindalu,Euphorbiaceae,Medicinal tree
+275,Mallotus philippensis,Monkey face tree,Sinduri,Euphorbiaceae,Medicinal tree
+276,Malus domestica,Apple,Seb,Rosaceae,Ornamental tree
+277,Mammea suriga,Indian Laurel,Surangan,Clusiaceae,Medicinal tree
+278,Mangifera indica,Mango,Am,Anacardiaceae,Fruiting tree
+279,Manihot esculenta,Tapioca,Shakarkand,Euphorbiaceae,Medicinal tree
+280,Manilkara hexandra,Ceylon Ironwood,Khirni,Sapotaceae,Wild tree
+281,Manilkara zapota,Sapodilla plum,Chikoo,Sapotaceae,Fruiting tree
+282,Markhamia lutea,Nile tulip tree,NA,Bignoniaceae,Ornamental tree
+283,Melaleuca bracteata,Golden Bottle brush,Safed Cheel,Myrtaceae,Ornamental tree
+284,Melia azedarach,Bakain,Bakneem,Meliaceae,Medicinal tree
+285,Memecylon umbellatum,Ironwood Tree,Anjan,Melastomataceae,Wild tree
+286,Mesua ferrea,Indian Rose wood,Nag champa,Clusiaceae,Avenue tree
+287,Meyna laxiflora,Muyna,Pundrika,Rubiaceae,Fruiting tree
+288,Miliusa tomentosa,Hoom,Kari,Annonaceae,Wild tree
+289,Millettia peguensis,Moulmein Rosewood,NA,Papilionaceae,Flowering tree
+290,Millingtonia hortensis,Indian Cork Tree,Neem Chameli,Bignoniaceae,Avenue tree
+291,Mimusops elengi,Spanish cherry,Maulsari,Sapotaceae,Ornamental tree
+292,Mitragyna parvifolia,Kaim,Kalamb,Rubiaceae,Avenue tree
+293,Morinda citrifolia,Indian Mulberry,Bartundi,Rubiaceae,Medicinal tree
+294,Morinda pubescens,Indian Mulberry,Aal,Rubiaceae,Medicinal tree
+295,Moringa oleifera,Drumstick tree,Senjana,Moringaceae,Fruiting tree
+296,Morus australis,Common mulberry,NA,Moraceae,Fruiting tree
+297,Morus alba,White Mulberry,Shahtoot,Moraceae,Fruiting tree
+298,Muntingia calabura,Singapore Cherry,NA,Muntingiaceae,Fruiting tree
+299,Murraya koenigii,Curry Leaf,Kari patta,Rutaceae,Ornamental tree
+300,Murraya paniculata,Orange Jasmine,Kamini,Rutaceae,Flowering tree
+301,Myristica fragrans,Nutmeg,Jayaphal,Myristicaceae,Fruiting tree
+302,Myrtus communis,True Myrtle,Baragasha,Myrtaceae,Ornamental tree
+303,Neolamarckia cadamba,Burflower Tree,Kadamb,Rubiaceae,Avenue tree
+304,Nyctanthes arbo-tristis,Queen of the night,Paarijat,Oleaceae,Ornamental tree
+305,Ochna integerrima,Mickey Mouse plant,Ramdhan champa,Ochnaceae,Ornamental tree
+306,Olea dioica,Rose Sandalwood,NA,Oleaceae,Medicinal tree
+307,Olea europaea,Olive tree,NA,Oleaceae,Avenue tree
+308,Oroxylum indicum,Indian Trumpet Flower,Bhut-vriksha,Bignoniaceae,Medicinal tree
+309,Pachira aquatica,Malabar chestnut tree,NA,Malvaceae,Ornamental tree
+310,Pachypodium lamerei,Madagascar Palm,NA,Apocynaceae,Ornamental tree
+313,Parkia biglandulosa,Badminton Ball Tree,ChendulKa jhar,Leguminosae,Avenue tree
+314,Parkinsonia aculeata,Jerusalem thorn,Ram babool,Leguminosae,Ornamental tree
+315,Parmentiera cereifera,Candle tree,NA,Bignoniaceae,Ornamental tree
+316,Peltophorum africanum,African Wattle,NA,Leguminosae,Avenue tree
+317,Peltophorum dubium,Yellow Poinciana,NA,Leguminosae,Avenue tree
+318,Peltophorum pterocarpum,Copperpod,Peela gulmohar,Leguminosae,Avenue tree
+319,Persea americana,Avocado,NA,Lauraceae,Fruiting tree
+320,Phoenix dactylifera,Date Palm,Khajur,Arecaceae,Palms
+321,Phoenix sylvestris,Indian Date Palm,Khajur,Arecaceae,Palms
+322,Phyllanthus acidus,Star Gooseberry,Harfarauri,Phyllanthaceae,Fruiting tree
+323,Phyllanthus emblica,Indian gooseberry,Amla,Euphorbiaceae,Medicinal tree
+324,Pimenta dioica,All spice,NA,Lauraceae,Ornamental tree
+325,Pinus roxburghii,Pine,NA,Pinaceae,Ornamental tree
+326,Piscidia piscipula,Florida fish poison tree,NA,Fabaceae,Ornamental tree
+327,Pithecellobium dulce,Sweet tamarind,Jangal Jalebi,Mimosaceae,Fruiting tree
+328,Platycladus orientalis,Oriental thuja,Mayurpankhi,Cupressaceae,Ornamental tree
+329,Plumeria alba,White Frangipani,Champa,Apocynaceae,Ornamental tree
+330,Plumeria rubra,Red Frangipani,Champa,Apocynaceae,Ornamental tree
+331,Podocarpus nerifolius,Brown Pine,NA,Podocarpaceae,Ornamental tree
+332,Polyalthia longifolia,Mast Tree,Ashok,Annonaceae,Ornamental tree
+333,Pongamia pinnata,Pongam Tree,Karanj,Fabaceae,Avenue tree
+334,Populus alba,Silver leaf poplar,NA,Salicaceae,Avenue tree
+335,Populus ciliata,Himalayan Poplar,Chalun, Ban peepal,Salicaceae
+336,Populus nigra,Black Poplar,Safeda,Salicaceae,Avenue tree
+337,Prosopis chilensis,Chilean Mesquite,NA,Leguminosae,Ornamental tree
+338,Prosopis cineraria,Indian Mesquite,Khejri,Leguminosae,Medicinal tree
+339,Prosopis juliflora,Algaroba,Junglee kikar,Leguminosae,Wild tree
+340,Pseudobombax ellipticum,Shaving brush Tree,NA,Malvaceae,Ornamental tree
+341,Psidium guajava,Guava,Amrood,Myrtaceae,Fruiting tree
+342,Pterocarpus marsupium,Indian Kino tree,Beeja Patta,Leguminosae,Avenue tree
+343,Pterospermum xylocarpum,Tada,Muchkunda,Malvaceae,Avenue tree
+344,Pterospermum acerifolium,Maple leaved Bayur tree,Kanak Champa,Malvaceae,Avenue tree
+345,Pterospermum suberifolium,Cork leaved Bayur tree,Muchkunda,Malvaceae,Avenue tree
+346,Pterygota alata,Buddha's coconut tree,Narikel,Malvaceae,Avenue tree
+347,Punica granatum,Pomogranate,Anar,Lythraceae,Fruiting tree
+348,Putranjiva roxburghii,Putranjiva,Putijia,Putranjivaceae,Avenue tree
+349,Ravenala madagascariensis,Traveller's Palm,NA,Strelitziaceae,Ornamental tree
+351,Roystonea regia,Royal Bottle Palm,NA,Arecaceae,Palms
+352,Salix tetrasperma,Indian Willow tree,Bod,Salicaceae,Medicinal tree
+353,Salvadora persica,Toothbrush Tree,Meswak,Salvadoraceae,Medicinal tree
+354,Santalum album,Sandalwood,Chandan,Santalaceae,Medicinal tree
+355,Sapindus mukorossi,Indian Soapberry,Reetha,Sapindaceae,Medicinal tree
+356,Sapindus trifoliatus,Soapberry,Ritha,Sapindaceae,Medicinal tree
+357,Sapindus emarginatus,Notched leaf soapberry,Reetha,Sapindaceae,Medicinal tree
+358,Saraca asoka,Sita Ashok,Sita Ashok,Leguminosae,Avenue tree
+359,Saribus rotundifolius,Roundleaf Fountain Palm,NA,Arecaceae,Avenue tree
+360,Schefflera actinophylla,Umbrella Tree,NA,Araliaceae,Avenue tree
+361,Schleichera oleosa,Lac tree,Kusum,Sapindaceae,Avenue tree
+362,Schrebera swietenioides,Weaver's beam tree,NA,Oleaceae,Wild tree
+363,Semecarpus anacardium,Marking Nut,Bhilawan,Anacardiaceae,Fruiting tree
+364,Senna siamea,Siamese cassia,Kassod,Leguminosae,Avenue tree
+365,Sesbania grandiflora,Agati,Agasti,Leguminosae,Flowering tree
+366,Simarouba amara,Bitterwood,NA,Simaroubaceae,Avenue tree
+367,Solanum albidum,Lumo,NA,Solanaceae,Ornamental tree
+368,Solanum macranthum,Potato Tree,NA,Solanaceae,Avenue tree
+369,Spathodea campanulata,African tulip Tree,Rugtoora,Bignoniaceae,Avenue tree
+370,Spondias pinnata,Wild Mango,Ambada,Anacardiaceae,Avenue tree
+371,Sterculia guttata,Spotted Sterculia,Hirik,Malvaceae,Avenue tree
+372,Sterculia urens,Indian Gum tragacanth,Sardol,Malvaceae,Avenue tree
+373,Sterculia foetida,Wild Indian Almond,Jangli Badam,Malvaceae,Avenue tree
+374,Stereospermum chelonoides,Fragrant Padri tree,Padeli,Bignoniaceae,Medicinal tree
+375,Streblus asper,Sand Paper Tree,Sahora,Moraceae,Ornamental tree
+376,Strychnos nux-vomica,Poison Nut,Bailewa,Loganiaceae,Medicinal tree
+377,Strychnos potatorum,Clearing Nut Tree,Nirmali,Loganiaceae,Medicinal tree
+378,Swietenia mahagoni,American Mahogany,NA,Meliaceae,Avenue tree
+379,Swietenia macrophylla,Big-Leaf Mahogany,NA,Meliaceae,Avenue tree
+380,Syagrus romanzoffiana,Sygarus palm,NA,Arecaceae,Palms
+381,Syzygium cumini,Jamun,Jamun,Myrtaceae,Fruiting tree
+382,Syzygium jambos,Rose Apple,Gulab Jamun,Myrtaceae,Fruiting tree
+383,Syzygium samarangense,Wax Apple,Jamrul,Myrtaceae,Fruiting tree
+384,Tabebuia aurea,Carribean Trumpet Tree,NA,Bignoniaceae,Avenue tree
+385,Tabebuia heterophylla,Cuban Pink Trumpet Tree,NA,Bignoniaceae,Avenue tree
+386,Tabebuia rosea,Pink Trumpet Tree,Basant Rani,Bignoniaceae,Avenue tree
+387,Tabernaemontana divaricata,Crape Jasmine,Chandni,Apocynaceae,Ornamental tree
+388,Tamarindus indica,Tamarind,Imli,Leguminosae,Fruiting tree
+389,Tamarix aphylla,Red Tamarisk,Faraash,Tamaricacea,Ornamental tree
+390,Tamilnadia uliginosa,Divine jasmine,Tamilnadia,Rubiaceae,Wild tree
+391,Taxodium distichum,Bald Cypress,NA,Cupressaceae,Ornamental tree
+392,Tecomella undulata,Roheda,Roheda,Bignoniaceae,Medicinal tree
+393,Tectona grandis,Teak,Sagun,Lamiaceae,Ornamental tree
+394,Terminalia crenulata,Indian Laurel,Saj,Combretaceae,Medicinal tree
+395,Terminalia arjuna,Arjun,Arjun,Combretaceae,Medicinal tree
+396,Terminalia bellirica,Beach almond,Bahera,Combretaceae,Medicinal tree
+397,Terminalia catappa,Indian Almond,Jangli badam,Combretaceae,Avenue tree
+398,Terminalia chebula,Chebulic Myrobalan,Harad,Combretaceae,Medicinal tree
+399,Terminalia crenata,NA,NA,Combretaceae,Ornamental tree
+400,Terminalia mantaly,Madagascan Almond,NA,Combretaceae,Avenue tree
+401,Terminalia paniculata,Flowering Murdah,Kindal Tree,Combretaceae,Wild tree
+402,Theobroma cacao,Cocoa Tree,NA,Malvaceae,Fruiting tree
+403,Thespesia populnea,Indian tulip tree,Paras pipal,Malvaceae,Avenue tree
+404,Toona ciliata,Indian Mahogany,Toon,Meliaceae,Avenue tree
+405,Trema orientalis,Indian Charcoal Tree,Jivan,Cannabaceae,Wild tree
+406,Triadica sebifera,Chinese tallow tree,NA,Euphorbiaceae,Ornamental tree
+407,Wodyetia bifurcata,Foxtail Palm,NA,Arecaceae,Palms
+408,Wrightia arborea,Woolly Dyeing Rosebay,Daira,Apocynaceae,Medicinal tree
+409,Wrightia tinctoria,Sweet Indrajao,Kapar,Apocynaceae,Medicinal tree
+410,Xylia xylocarpa,Burma Ironwood,Jambu,Leguminosae,Ornamental tree
+411,Zanthoxylum rhetsa,Indian Prickly ash,NA,Rutaceae,Wild tree
+412,Ziziphus jujuba,Indian Jujube,Ber,Rhamnaceae,Fruiting tree
+413,Ziziphus rugosa,Wild Jujube,Churana,Rhamnaceae,Fruiting tree
