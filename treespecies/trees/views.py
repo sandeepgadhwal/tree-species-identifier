@@ -16,10 +16,19 @@ import requests
 import numpy as np
 import pandas as pd
 
+mean_nums = [0.485, 0.456, 0.406]
+std_nums = [0.229, 0.224, 0.225]
 
 def read_image(url):
     r = requests.get(url, stream=True)
-    arr = np.array(Image.open(r.raw), dtype=np.uint8)
+    im = Image.open(r.raw)
+    if max(im.size) > 256:
+        im = im.resize((256, 256))
+    # im.save('/tmp/im.jpg')
+    arr = np.array(im, dtype=np.uint8)
+    arr = arr.astype(np.float32) / 255.
+    arr = ( arr - mean_nums )/std_nums
+    arr = np.rollaxis(arr, 2, 0)[None]
     return arr
 
 class TreeModel(APIView):
@@ -36,9 +45,10 @@ class TreeModel(APIView):
             print(f"-- Reading Model from path: {settings.MODEL_PATH}")
             settings.MODEL_INSTANCE = torch.load(settings.MODEL_PATH, map_location=torch.device('cpu'))
             settings.MODEL_INSTANCE = settings.MODEL_INSTANCE.eval()
-            ex = torch.rand((1, 3, 256, 256), dtype=torch.float32)
-            settings.MODEL_INSTANCE = torch.jit.trace(settings.MODEL_INSTANCE, ex)
-            settings.MODEL_DF = pd.read_csv(settings.MODEL_PATH.parent / 'Tree.csv')
+            # ex = torch.rand((1, 3, 256, 256), dtype=torch.float32)
+            # settings.MODEL_INSTANCE = torch.jit.trace(settings.MODEL_INSTANCE, ex)
+            settings.CLASSES_DF = pd.read_csv(settings.MODEL_PATH.parent / 'classes.csv')
+            settings.MODEL_DF = pd.read_csv(settings.MODEL_PATH.parent / 'Tree.csv').fillna('')
 
     def get(self, request):
         url = request.query_params.get('url', None)
@@ -47,9 +57,21 @@ class TreeModel(APIView):
             return Response({"error": message}, status.HTTP_400_BAD_REQUEST)
         #
         arr = read_image(url)
-        tsr = torch.tensor(arr, dtype=torch.float32).permute(2, 0, 1)[None]
+        tsr = torch.tensor(arr, dtype=torch.float32)
+        print(tsr.shape)
         res = settings.MODEL_INSTANCE(tsr)
+        print('argmax', res.argmax().item())
+        amax = res.argmax().item()
         return Response({
-            'confidences': res.tolist(),
-            'argmax': settings.MODEL_DF.iloc[res.argmax().item()].to_dict()
+            # 'confidences': res.tolist(),
+            'classindex': amax,
+            'classname': settings.CLASSES_DF.classes[amax],
+            'species': settings.MODEL_DF.iloc[amax].to_dict()
         })
+
+class SpeciesList(APIView):
+    """
+    Return full list of tree species.
+    """
+    def get(self, request):
+        return Response(settings.MODEL_DF.to_dict(orient='records'))

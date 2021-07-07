@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-&o+zxw2v97t0l)-tbc$ou9&(i+15tnke@=v-60pykl9$a93u4t
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -135,4 +135,5 @@ REST_FRAMEWORK = { 'DEFAULT_SCHEMA_CLASS': 'rest_framework.schemas.coreapi.AutoS
 MODEL_PATH = BASE_DIR.parent / 'models' / 'v1_462e.pth'
 
 MODEL_INSTANCE = None
+CLASSES_DF = None
 MODEL_DF = None
